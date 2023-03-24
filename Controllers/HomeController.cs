@@ -38,6 +38,7 @@ public class HomeController : Controller
         //ViewDataDictionary
         //chave - valor
     //    ViewData["curso"] = curso; //recurso de chave : valor
+        ViewData["Title"] = "Página principal";
         ViewBag.Curso = curso;
         TempData["mensagem"] ="Mensagem vinda da Action Index";
         //int ch =40;
