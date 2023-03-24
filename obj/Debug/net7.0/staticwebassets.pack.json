@@ -1,311 +1,311 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\escoladotnet.bundle.scp.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\escoladotnet.bundle.scp.css",
       "PackagePath": "staticwebassets\\escoladotnet.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\Google-Classroom-Logo.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\Google-Classroom-Logo.png",
       "PackagePath": "staticwebassets\\img\\Google-Classroom-Logo.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\aws.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\aws.png",
       "PackagePath": "staticwebassets\\img\\aws.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\chaptgpt.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\chaptgpt.png",
       "PackagePath": "staticwebassets\\img\\chaptgpt.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\cisco.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\cisco.png",
       "PackagePath": "staticwebassets\\img\\cisco.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\estantevirtual.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\estantevirtual.png",
       "PackagePath": "staticwebassets\\img\\estantevirtual.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\fapdf.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\fapdf.png",
       "PackagePath": "staticwebassets\\img\\fapdf.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\gdf.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\gdf.png",
       "PackagePath": "staticwebassets\\img\\gdf.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\huawei.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\huawei.png",
       "PackagePath": "staticwebassets\\img\\huawei.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\intelbras.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\intelbras.png",
       "PackagePath": "staticwebassets\\img\\intelbras.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\learn-icon.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\learn-icon.png",
       "PackagePath": "staticwebassets\\img\\learn-icon.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\logomarca_gdf.jpg",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\logomarca_gdf.jpg",
       "PackagePath": "staticwebassets\\img\\logomarca_gdf.jpg"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\logoteste.PNG",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\logoteste.PNG",
       "PackagePath": "staticwebassets\\img\\logoteste.PNG"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\microsoft.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\microsoft.png",
       "PackagePath": "staticwebassets\\img\\microsoft.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\oracle.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\oracle.png",
       "PackagePath": "staticwebassets\\img\\oracle.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\senai-logo-1.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\senai-logo-1.png",
       "PackagePath": "staticwebassets\\img\\senai-logo-1.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\img\\senaiplay.png",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\img\\senaiplay.png",
       "PackagePath": "staticwebassets\\img\\senaiplay.png"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

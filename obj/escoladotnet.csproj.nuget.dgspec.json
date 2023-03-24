@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\escoladotnet.csproj": {}
+    "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\escoladotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\escoladotnet.csproj": {
+    "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\escoladotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\escoladotnet.csproj",
+        "projectUniqueName": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\escoladotnet.csproj",
         "projectName": "escoladotnet",
-        "projectPath": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\escoladotnet.csproj",
-        "packagesPath": "C:\\Users\\PROFESSOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROFESSOR\\desktop\\competencia18\\escoladotnet\\obj\\",
+        "projectPath": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\escoladotnet.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romul\\competencia21\\escoladotnet-efcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PROFESSOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
