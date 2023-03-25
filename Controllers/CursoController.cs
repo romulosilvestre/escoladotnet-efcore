@@ -31,5 +31,10 @@ public class CursoController:Controller{
         return RedirectToAction(nameof(Index));
     }
 
+    public IActionResult Create(){
+        ViewData["Title"] = "Cadastrar Curso";
+        return View();
+    }
+
 }
 
