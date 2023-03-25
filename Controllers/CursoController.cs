@@ -1,6 +1,7 @@
 using EscolaDotNet.Contexts;
 using EscolaDotNet.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using EscolaDotNet.Models;
 
 namespace EscolaDotNet.Controllers;
 
@@ -34,6 +35,23 @@ public class CursoController:Controller{
     public IActionResult Create(){
         ViewData["Title"] = "Cadastrar Curso";
         return View();
+    }
+    [HttpPost]
+    public IActionResult Create(CreateCursoViewModel data){
+        var curso = new Curso(data.Nome,
+                                data.Titulo,
+                                data.Descricao,
+                                data.Perfil,
+                                data.PreRequisitos,
+                                data.Conteudo,
+                                data.Recursos,
+                                data.CargaHoraria,
+                                data.PrazoMeses);
+
+        _context.Add(curso);
+        _context.SaveChanges();
+        //Quero redirecionar de volta pra Index
+        return RedirectToAction(nameof(Index));
     }
 
 }

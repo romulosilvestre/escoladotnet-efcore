@@ -44,4 +44,26 @@ public class Curso
         CargaHoraria = cargaHoraria;
         PrazoMeses = prazoMeses;
     }
+    public Curso(
+                string? nome,
+                string? titulo,
+                string? descricao,
+                string? perfil,
+                string? preRequisitos,
+                string? conteudo,
+                string? recursos,
+                int cargaHoraria,
+                int prazoMeses)
+    {
+       
+        Nome = nome;
+        Titulo = titulo;
+        Descricao = descricao;
+        Perfil = perfil;
+        PreRequisitos = preRequisitos;
+        Conteudo = conteudo;
+        Recursos = recursos;
+        CargaHoraria = cargaHoraria;
+        PrazoMeses = prazoMeses;
+    }
 }
