@@ -21,6 +21,15 @@ public class CursoController:Controller{
         var viewModel = new ListaCursoViewModel{Cursos = cursos};
         return View(viewModel);
     }
+    public IActionResult Delete(int id){
+        var curso = _context.Cursos.Find(id);
+        if(curso is null){
+            return NotFound();
+        }
+        _context.Remove(curso);
+        _context.SaveChanges();
+        return RedirectToAction(nameof(Index));
+    }
 
 }
 
