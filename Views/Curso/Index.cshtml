@@ -11,7 +11,7 @@
                <th scope="col">Id</th>
                <th scope="col">Nome</th>
                <th scope="col">Iniciar</th>
-               <th scope="col">Deletar</th>
+               <th scope="col">Apagar</th>
                <th scorpe="col">Atualizar</th>
             </tr>
          </thead>
@@ -22,16 +22,24 @@
                 <tr>
                     <td>@item.Id</td>
                     <td>@item.Nome</td>
-                    <td><button type="button" class="btn btn-outline-success">Iniciar</button></td>
+                    <td><button type="button" class="btn btn-success">Iniciar</button></td>
                     <td><a 
                            asp-controller="Curso" 
                            asp-action="Delete" 
                            asp-route-id="@item.Id" 
-                           class="btn btn-outline-danger" >
+                           class="btn btn-danger" >
                            Apagar
                         </a>
                     </td>
-                    <td> <button type="button"  class="btn btn-outline-info">Atualizar</button></td>
+                    <td><a 
+                           asp-controller="Curso" 
+                           asp-action="Edit" 
+                           asp-route-id="@item.Id" 
+                           class="btn btn-info" >
+                           Atualizar
+                        </a>
+                    </td>
+                    
                 </tr>   
             }
 

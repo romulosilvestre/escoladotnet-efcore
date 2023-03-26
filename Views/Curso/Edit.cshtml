@@ -1,0 +1,82 @@
+<!--Vou tipar aqui-->
+@model EditCursoViewModel
+
+
+
+<!-- Vamos criar um a linha-->
+
+<div class="row">
+
+    <!--Dentro da linha vamos criar uma coluna-->
+
+    <div class="col">
+
+        <h1 class="text-center">@ViewData["title"]</h1>
+        <form method="post">
+            <!--Nome-->
+            <div class="mb-3">
+                <label asp-for="Nome" class="form-label">Nome</label>
+                <input asp-for="Nome" type="text" class="form-control">
+            </div>
+
+            <!--Título-->
+             <div class="mb-3">
+                <label asp-for="Titulo" class="form-label">Título</label>
+                <input asp-for="Titulo" type="text" class="form-control">
+            </div>
+
+            <!--Descrição-->
+
+             <div class="mb-3">
+                <label asp-for="Descricao" class="form-label">Descrição</label>
+                <input asp-for="Descricao" type="text" class="form-control">
+            </div>
+
+            <!--Perfil-->
+             <div class="mb-3">
+                <label asp-for="Perfil" class="form-label">Perfil</label>
+                <input asp-for="Perfil" type="text" class="form-control">
+            </div>
+
+            <!--Requisito-->
+              <div class="mb-3">
+                <label asp-for="PreRequisitos" class="form-label">Requisito</label>
+                <input asp-for="PreRequisitos" type="text" class="form-control">
+            </div>
+
+            <!--Conteúdos-->
+              <div class="mb-3">
+                <label asp-for="Conteudo" class="form-label">Conteúdos</label>
+                <input asp-for="Conteudo" type="text" class="form-control">
+            </div>
+
+           
+            <!--Recursos-->
+
+             <div class="mb-3">
+                <label asp-for="Recursos" class="form-label">Recursos</label>
+                <input asp-for="Recursos" type="text" class="form-control">
+            </div>
+
+            <!--CH-->
+
+             <div class="mb-3">
+                <label asp-for="CargaHoraria" class="form-label">Carga Horária</label>
+                <input asp-for="CargaHoraria" type="number" class="form-control">
+            </div>
+
+            <!--Prazo-->
+
+             <div class="mb-3">
+                <label asp-for="PrazoMeses" class="form-label">Prazo</label>
+                <input asp-for="PrazoMeses" type="number" class="form-control">
+            </div>
+      
+
+            <button type="submit" class="btn btn-primary">Alterar</button>
+        </form>
+    </div>
+
+
+
+</div>

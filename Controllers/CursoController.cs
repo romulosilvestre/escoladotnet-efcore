@@ -54,5 +54,27 @@ public class CursoController:Controller{
         return RedirectToAction(nameof(Index));
     }
 
+    public IActionResult Edit(int id){
+        ViewData["Title"] = "Editar Curso";
+        var curso = _context.Cursos.Find(id);
+        if(curso is null){
+            return NotFound();
+        }
+        var viewModel = new EditCursoViewModel{
+           Id = curso.Id,
+           Nome = curso.Nome,
+           CargaHoraria = curso.CargaHoraria,
+           Conteudo = curso.Conteudo,
+           Descricao = curso.Descricao,
+           Perfil = curso.Perfil,
+           PrazoMeses = curso.PrazoMeses,
+           PreRequisitos = curso.PreRequisitos,
+           Recursos = curso.Recursos,
+           Titulo = curso.Titulo
+
+        };
+        return View(viewModel);
+    }
+
 }
 
