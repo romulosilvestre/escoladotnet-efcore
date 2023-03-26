@@ -11,5 +11,6 @@ public class CreateCursoViewModel{
     public string? Recursos { get; set; }
     public int CargaHoraria { get; set; }
     public int PrazoMeses { get; set; }
+   
 
 }

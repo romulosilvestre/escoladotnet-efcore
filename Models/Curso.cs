@@ -17,6 +17,7 @@ public class Curso
     public string? Recursos { get; set; }
     public int CargaHoraria { get; set; }
     public int PrazoMeses { get; set; }
+    public bool TaCompleta { get; set; }
      
     //sobrecarga
     public Curso(){
@@ -31,7 +32,7 @@ public class Curso
                 string? conteudo,
                 string? recursos,
                 int cargaHoraria,
-                int prazoMeses)
+                int prazoMeses,bool taCompleta = false)
     {
         Id = id;
         Nome = nome;
@@ -43,6 +44,7 @@ public class Curso
         Recursos = recursos;
         CargaHoraria = cargaHoraria;
         PrazoMeses = prazoMeses;
+        TaCompleta = taCompleta;
     }
     public Curso(
                 string? nome,
@@ -53,7 +55,7 @@ public class Curso
                 string? conteudo,
                 string? recursos,
                 int cargaHoraria,
-                int prazoMeses)
+                int prazoMeses,bool taCompleta = false)
     {
        
         Nome = nome;
@@ -65,5 +67,6 @@ public class Curso
         Recursos = recursos;
         CargaHoraria = cargaHoraria;
         PrazoMeses = prazoMeses;
+        TaCompleta = taCompleta;
     }
 }

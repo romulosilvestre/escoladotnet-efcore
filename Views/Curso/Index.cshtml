@@ -10,7 +10,8 @@
             <tr>
                <th scope="col">Id</th>
                <th scope="col">Nome</th>
-               <th scope="col">Iniciar</th>
+               <th scope="col">Completo?</th>
+               <th scope="col">Concluir</th>
                <th scope="col">Apagar</th>
                <th scorpe="col">Atualizar</th>
             </tr>
@@ -22,7 +23,15 @@
                 <tr>
                     <td>@item.Id</td>
                     <td>@item.Nome</td>
-                    <td><button type="button" class="btn btn-success">Iniciar</button></td>
+                    <td>@item.TaCompleta</td>
+                    <td><a 
+                           asp-controller="Curso" 
+                           asp-action="ToComplete" 
+                           asp-route-id="@item.Id" 
+                           class="btn btn-success" >
+                           Concluir
+                        </a>
+                    </td>
                     <td><a 
                            asp-controller="Curso" 
                            asp-action="Delete" 
